@@ -1,0 +1,9 @@
+Building Axacoin
+
+See doc/readme-qt.rst for instructions on building Axacoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Axacoin.
+
+See doc/build-*.txt for instructions on building axacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Axacoin.
