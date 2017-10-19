@@ -1,11 +1,9 @@
-<<<<<<< HEAD
-Axacoin integration/staging tree
-================================
+AXACOİN by Forever Primes İnternet Hizmetleri A.Ş
 
-http://www.axacoin.org
+http://www.axacoin.net
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Axacoin Developers
+Copyright (c) 2009-2017 Bitcoin Developers
+Copyright (c) 2016-2017 Axacoin Developers
 
 What is Axacoin?
 ----------------
@@ -13,14 +11,14 @@ What is Axacoin?
 Axacoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
  - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+ - ~88.888.888 total coins
 
 The rest is the same as Bitcoin.
  - 50 coins per block
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Axacoin client sofware, see http://www.axacoin.org.
+the Axacoin client sofware, see http://www.axacoin.net.
 
 License
 -------
@@ -75,3 +73,5 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
 =======
 # axacoin
 >>>>>>> eedd96096c03e0f6935e4bc476497daf26a503a7
+
+powered by Forever Primes internet hizmetleri tic. A.Ş
