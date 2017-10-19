@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Axacoin integration/staging tree
 ================================
 
@@ -71,3 +72,6 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
     make -f Makefile.test
     ./axacoin-qt_test
 
+=======
+# axacoin
+>>>>>>> eedd96096c03e0f6935e4bc476497daf26a503a7
